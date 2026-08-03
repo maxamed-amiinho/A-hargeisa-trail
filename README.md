@@ -1,4 +1,4 @@
-# An Isha Gobka Trail
+# A hargeisa Trail
 
 A phone-UI mystery game (React + Firestore), inspired by *An Elmwood Trail*, set in Hargeisa.
 
